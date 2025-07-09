@@ -28,15 +28,15 @@ A beautifully designed front-end web project showcasing holiday destinations wit
 
 ## 📁 Folder Structure
 
-```bash
-holiday-website/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── main.js
-├── images/
-└── README.md
+Holiday/
+├── css/ # Custom stylesheets
+├── fonts/ # Custom fonts used in the project
+├── images/ # Image assets
+├── js/ # JavaScript files
+├── index.html # Main HTML file
+└── README.md # Project documentation
+
+
 📌 How to Use
 Clone this repository:
 
