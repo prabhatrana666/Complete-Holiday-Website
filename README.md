@@ -8,7 +8,7 @@ A beautifully designed front-end web project showcasing holiday destinations wit
 
 ## 📸 Screenshots
 
-![Holiday Website Screenshot](https://holiday152.netlify.app/preview.png) <!-- Optional: Replace with real image or remove -->
+![holiday](https://github.com/user-attachments/assets/b6c69e6e-adec-4e6f-b2bb-232af205046a)(https://holiday152.netlify.app/preview.png) <!-- Optional: Replace with real image or remove -->
 
 ## 🛠️ Technologies Used
 
@@ -55,5 +55,5 @@ This project is hosted on Netlify
 👨‍💻 Author
 Prabhat Rana
 Frontend Developer & UI Designer
-📧 [YourEmail@example.com]
-🔗 LinkedIn <!-- Update with your real links -->
+📧 prabhatrana2024@gmail.com
+🔗 LinkedIn linkedin.com/in/prabhat-rana
